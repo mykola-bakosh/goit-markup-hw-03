@@ -212,6 +212,7 @@ img {
   padding-top: 120px;
   padding-bottom: 120px;
 }
+
 .portfolio-ul {
   display: flex;
   gap: 24px;
@@ -268,5 +269,7 @@ img {
 }
 .footer-logo .logo-part {
   color: #f4f4fd;
+  display: inline-block;
+  margin-bottom: 16px;
 }
 /*#endregion footer  */
