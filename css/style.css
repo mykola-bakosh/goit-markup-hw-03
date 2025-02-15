@@ -178,7 +178,7 @@ img {
   color: #2e2f42;
   text-transform: capitalize;
   padding-top: 120px;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 
 .criteria-stile-htri {
@@ -247,10 +247,7 @@ img {
   gap: 24px;
 }
 .div-comand {
-  padding-left: 16px;
-  padding-top: 32px;
-  padding-right: 16px;
-  padding-bottom: 32px;
+  padding: 32px 0 32px;
   text-align: center;
 }
 /* #endregion Our Team */
