@@ -47,6 +47,7 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  display: inline-block;
 }
 .header-logo {
   padding: 24px 0;
@@ -269,6 +270,10 @@ img {
 }
 .footer-logo .logo-part {
   color: #f4f4fd;
+  display: inline-block;
+  margin-bottom: 16px;
+}
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
